@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.link {
+  color: inherit;
+  cursor: pointer;
+}
+
+.link:hover {
+  text-decoration: none !important;
+}
